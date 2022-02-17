@@ -1,0 +1,129 @@
+.topc {
+  position: absolute;
+  right: 400px;
+  top: 40px;
+}
+.bottomc {
+
+  position: absolute;
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: #76BACE;
+  line-height: 2;
+  font-size: 375%;     */in css 100% in font sizde means 16px the to dtermine 60px in peercentage 60/16 which is 375%
+}
+h2 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: #66BFBF;
+  font-size :2.5rem;
+  line-height: 2;
+  font-weight: normal;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size :2.5rem;
+  line-height: 2;
+  color: #FF6767;
+}
+
+hr {
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-top-width: 10px;
+}
+.skill-row {
+  width: 50%;
+  margin: auto;
+  margin-top :100px;
+  margin-bottom: 100px;
+  text-align: left;
+}
+.skill-row p {
+  line-height: 2;
+  font-size: 1rem;
+}
+
+.skill-row h3 {
+    font-size: 2rem;
+}
+
+.skills h2 {
+  color: #E63E6D;
+  font-size :4rem;
+  line-height: 2;
+  font-weight: normal;
+}
+
+.yo h2 {
+  font-size: 2.5em;
+  color: #2C2891;
+}
+
+.com {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chill{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.yo p {
+  font-size: 1.5em;
+  line-height: 2;
+}
+
+.contact-me pre {
+  font-size: 1.5em;
+  line-height: 2;
+}
+
+.contact-me h3 {
+  font-size: 2em;
+}
+
+.contact-me {
+  margin-bottom: 100px;
+}
+
+.btn {
+  padding: 14px;
+  background-color: #A6D6D6;
+  border-top-left-radius:10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top-right-radius: 10px;
+  border-style: solid;
+  color: white;
+
+}
+a {
+  text-decoration: none
+}
+  .yoyoyo {background-color: #CDF0EA;
+    padding: 100px;
+    }
+  .yoyoyo h1 {margin-block-start: 0px;
+margin-block-end: 0px;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+margin: auto;
+padding: 50px;
+font-family: Papyrus, fantasy; }
+body {
+  text-align: center;
+margin: 0px;
+font-family: 'Merriweather', serif;
+}
+.yo {}
+.yoyo {margin-top: 50px;
+  padding: 50px;
+background-color: #B5DEFF;}
+.yoyo a {
+  padding: 5px;
+}
